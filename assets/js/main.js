@@ -1,11 +1,3 @@
-/**
-* Template Name: Clinic
-* Template URL: https://bootstrapmade.com/clinic-bootstrap-template/
-* Updated: Jul 23 2025 with Bootstrap v5.3.7
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 (function() {
   "use strict";
 
